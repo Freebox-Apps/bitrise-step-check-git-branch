@@ -1,6 +1,6 @@
 # Check Git Branch
 
-none
+Check if HEAD is merged in a given branch
 
 
 ## How to use this Step
